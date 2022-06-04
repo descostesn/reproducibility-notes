@@ -2,7 +2,7 @@
 
   * [Experimenting with reproducibility: a case study of robustness in bioinformatics](https://academic.oup.com/gigascience/article/7/7/giy077/5046609)
 
-"Obtaining the same results using the same data and same code is “reproducibility”."
+"Obtaining the same results using the same data and same code is “reproducibility”." -
 " If code is different, it is “robustness”"
 "If we used different data but with the same code, it is “replicability”"
 "Last, using different data and different code is referred as “generalizability”."
